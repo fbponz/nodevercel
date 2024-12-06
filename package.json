@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/fbponz/nodevercel#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "nominatim-geocoder": "^0.1.4"
   }
 }
